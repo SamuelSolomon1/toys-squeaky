@@ -2,45 +2,45 @@ var numberOfAnimalButtons = document.querySelectorAll(".toys").length;
 
 for (var i = 0; i < numberOfAnimalButtons; i++) {
   document
-    .querySelectorAll(".squaky1")
+    .querySelectorAll(".squeaky1")
     [i].addEventListener("click", function () {
       // Add audio in image
-      let squaky1 = new Audio("toysSounds/squaky1.mp3");
-      squaky1.play();
+      let squeaky1 = new Audio("toysSounds/squeaky1.mp3");
+      squeaky1.play();
     });
   document
-    .querySelectorAll(".squaky2")
+    .querySelectorAll(".squeaky2")
     [i].addEventListener("click", function () {
       // Add audio in image
-      let squaky2 = new Audio("toysSounds/squaky2.mp3");
-      squaky2.play();
+      let squeaky2 = new Audio("toysSounds/squeaky2.mp3");
+      squeaky2.play();
     });
   document
-    .querySelectorAll(".squaky3")
+    .querySelectorAll(".squeaky3")
     [i].addEventListener("click", function () {
       // Add audio in image
-      let squaky3 = new Audio("toysSounds/squaky3.mp3");
-      squaky3.play();
+      let squeaky3 = new Audio("toysSounds/squeaky3.mp3");
+      squeaky3.play();
     });
   document
-    .querySelectorAll(".squaky4")
+    .querySelectorAll(".squeaky4")
     [i].addEventListener("click", function () {
       // Add audio in image
-      let squaky4 = new Audio("toysSounds/squaky4.mp3");
-      squaky4.play();
+      let squeaky4 = new Audio("toysSounds/squeaky4.mp3");
+      squeaky4.play();
     });
   document
-    .querySelectorAll(".squaky5")
+    .querySelectorAll(".squeaky5")
     [i].addEventListener("click", function () {
       // Add audio in image
-      let squaky5 = new Audio("toysSounds/squaky5.mp3");
-      squaky5.play();
+      let squeaky5 = new Audio("toysSounds/squeaky5.mp3");
+      squeaky5.play();
     });
   document
-    .querySelectorAll(".squaky6")
+    .querySelectorAll(".squeaky6")
     [i].addEventListener("click", function () {
       // Add audio in image
-      let squaky6 = new Audio("toysSounds/squaky6.mp3");
-      squaky6.play();
+      let squeaky6 = new Audio("toysSounds/squeaky6.mp3");
+      squeaky6.play();
     });
 }

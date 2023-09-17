@@ -1,36 +1,36 @@
 body {
   text-align: center;
-  background-color: #FF9494;
+  background-color: #ff9494;
 }
 h1 {
   font-size: 5rem;
-  color: #FFD1D1;
+  color: #ffd1d1;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #614004;
 }
-.squaky1 {
+.squeaky1 {
   background-image: url("toysImages/1.jpg");
 }
-.squaky2 {
+.squeaky2 {
   background-image: url("toysImages/2.jpg");
 }
-.squaky3 {
+.squeaky3 {
   background-image: url("toysImages/3.jpg");
 }
-.squaky4 {
+.squeaky4 {
   background-image: url("toysImages/4.jpg");
 }
-.squaky5 {
+.squeaky5 {
   background-image: url("toysImages/5.jpg");
 }
-.squaky6 {
+.squeaky6 {
   background-image: url("toysImages/6.jpg");
 }
 
 .toys {
   background-repeat: no-repeat;
   background-size: cover;
-  object-fit: cover; 
+  object-fit: cover;
   background-color: white;
   outline: none;
   border-radius: 25px;
@@ -38,8 +38,8 @@ h1 {
   font-family: "Roboto", cursive;
   font-weight: 900;
   line-height: 5;
-  color: #FF9494;
-  text-shadow: 3px 0 #FFD1D1;
+  color: #ff9494;
+  text-shadow: 3px 0 #ffd1d1;
   display: inline-block;
   width: 500px;
   height: 500px;
@@ -47,5 +47,5 @@ h1 {
   text-align: center;
 }
 .toys:hover {
-    background-color: yellow;
-  }
+  background-color: yellow;
+}
